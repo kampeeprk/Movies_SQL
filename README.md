@@ -1,5 +1,3 @@
-![image](https://github.com/stlionnn/Movies_SQL/assets/98281969/7671e792-8aee-447e-810d-814ae14b3703)![image](https://github.com/stlionnn/Movies_SQL/assets/98281969/a5151cfb-059d-4e94-9d33-1c92cdfc2472)# Movies_SQL
-
 ## Answer the business question
 
 ### 1. How many unique movies and directors exist in the dataset?
